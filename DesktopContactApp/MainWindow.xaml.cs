@@ -76,6 +76,8 @@ namespace DesktopContactApp
             {
                 ContactDetailWindow contactDetailWindow = new(selectedContact);
                 contactDetailWindow.ShowDialog();
+
+                ReadDatabase();
             }
         }
     }

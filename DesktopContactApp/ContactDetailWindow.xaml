@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DesktopContactApp"
         mc:Ignorable="d"
-        Title="ContactDetailWindow" Height="170" Width="300">
+        Title="ContactDetailWindow" Height="200" Width="300">
     <Grid>
         <StackPanel Margin="10">            
             <TextBox Name="nameTextBox"
