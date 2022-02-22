@@ -33,8 +33,6 @@ namespace DesktopContactApp
                 connection.Insert(contact);
             };
 
-
-
             this.Close();
         }
     }
