@@ -15,7 +15,7 @@ namespace DesktopContactApp.Classes
         {
             get
             {
-                return Name + LastName;
+                return Name + ' ' + LastName;
             }
         }
         [MaxLength(150)]
